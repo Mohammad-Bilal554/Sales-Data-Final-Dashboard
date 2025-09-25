@@ -4,9 +4,7 @@
 This project is an **interactive Tableau dashboard** built using a sales dataset.  
 The dashboard helps analyze **product performance, customer reviews, ratings, and discounts** with interactive filters and summary KPIs.  
 
----
-
-## Features Added Today
+## Key Features Implemented Today
 1. **KPI Cards (Summary Section)**
    - Total Products (Count of product IDs)  
    - Average Rating (Customer satisfaction)  
@@ -27,12 +25,8 @@ The dashboard helps analyze **product performance, customer reviews, ratings, an
    - Top Products sorted by **review count (descending)**  
    - Distribution charts properly sorted for clarity  
 
----
-
 ## Insights from Dashboard
 - **Most reviewed products** indicate customer favorites and visibility.  
 - **Average rating** shows overall customer satisfaction.  
 - **Discount percentages** highlight pricing and promotional strategies. 
 
-
----
