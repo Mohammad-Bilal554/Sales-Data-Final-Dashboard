@@ -25,6 +25,9 @@ The dashboard helps analyze **product performance, customer reviews, ratings, an
    - Top Products sorted by **review count (descending)**  
    - Distribution charts properly sorted for clarity  
 
+## Dashboard
+<img src="https://github.com/Mohammad-Bilal554/Sales-Data-Final-Dashboard/blob/main/Dashboard%20(2).png">
+
 ## Insights from Dashboard
 - **Most reviewed products** indicate customer favorites and visibility.  
 - **Average rating** shows overall customer satisfaction.  
